@@ -1,0 +1,16 @@
+# Dependencias instaladas
+node_modules/
+
+# Dependencias de desarrollo instaladas
+pnpm-lock.yaml
+
+# Archivos generados durante la construcción
+dist/
+
+# Archivos de configuración locales
+.env
+
+# Archivos de registro y caché
+logs/
+.cache/
+db.sqlite3
